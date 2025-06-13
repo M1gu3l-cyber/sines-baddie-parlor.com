@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    font-family: cursive,bold,sans-serif;
+    font: size 20px;
+    color: palevioletred;
+    font-style: italic;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(241, 138, 210);
+    padding-top: 12px;
+    position: fixed;
+}
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color:#f5deeefa;
+}
+h4{
+    text-align: center;
+    font-family: bold,sans-serif;
+    font-size: 20px;
+    color: palevioletred;
+    font-style: initial;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color: palevioletred;
+    font-style: oblique;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
